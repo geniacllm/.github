@@ -1,10 +1,5 @@
-# Team Kumagai
+# Team Kuma
 
-* 公開用トップページ
-* 各レポジトリへのリンクや各種公開情報へのリンクを追加予定
+submit model: <https://huggingface.co/geniacllm/dMoE_8B_finetune_all_v6_epoch2_v0.1>
 
-## Githubのメンバー専用のレポジトリ
-
-（参考）
-
-* <https://docs.github.com/ja/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile>
+try it on colab: [notebook](../geniacllm_dMoE_8B_on_colab.ipynb)
